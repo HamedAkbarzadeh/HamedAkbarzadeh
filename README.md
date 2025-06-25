@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Back-end Developer | Android Developer | Bot Builder | Database Designer</strong>  
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohamadzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadzadeh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamedAkbarzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadzadeh" /> </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/hamed-akbarzadeh-b0756a27b" target="_blank">
